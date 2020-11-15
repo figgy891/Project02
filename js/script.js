@@ -45,8 +45,8 @@ $( document ).ready(function() {
 
 
         for (let image of giphyResponse.data) {                
-          // let imgHtml = `<img src=${image.images.original.url} class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2 col-span-12 sm:col-span-6 md:col-span-4 "/>`
-          let imgHtml = `<img src=${image.images.original.url} />`
+          let imgHtml = `<img src=${image.images.original.url} class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2 col-span-12 sm:col-span-6 md:col-span-4 "/>`
+          //let imgHtml = `<img src=${image.images.original.url} />`
           resultsHtml = resultsHtml + imgHtml;          
         }
 
