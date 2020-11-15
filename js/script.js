@@ -24,7 +24,6 @@ $( document ).ready(function() {
 
 
       // jquery way of doin it
-      $.get(url, function(giphyResponse) {
         // console.log(giphyResponse);
         // console.log('giphyData', giphyResponse.data)
         // console.log('giphyData result 0 (1st result)', giphyResponse.data[0]);
@@ -45,7 +44,7 @@ $( document ).ready(function() {
 
 
         for (let image of giphyResponse.data) {                
-          let imgHtml = `<img src=${image.images.original.url} class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2 col-span-12 sm:col-span-6 md:col-span-4 "/>`
+          let imgHtml = `<img src=${image.images.original.url} class="text-gray-700 text-center bg-gray-400 px-4 py-2 m-2 col-span-12 sm:col-span-6 md:col-span-4 lg:col-span-3"/>`
           //let imgHtml = `<img src=${image.images.original.url} />`
           resultsHtml = resultsHtml + imgHtml;          
         }
