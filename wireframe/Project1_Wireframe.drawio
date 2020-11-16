@@ -1,1 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T18:09:22.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="Y7fsgWfM4tr_Ny-6cfz0" version="13.8.0" type="device"><diagram id="-ZGELuVf5rq7sDPk03Zz" name="Page-1">7ZrvU9sgGMf/mr60F8iPti+dOt2dbt7cbm7vYoMt1zR0hNrUv37QQAKBrlHb6lnvPC88wAN5vp8HCNrxT6bFOY1n4yuSoLQDvaTo+KcdCEEAYUf8eMmytPQiaRhRnMhGteEGPyJp9KR1jhOUGw0ZISnDM9M4JFmGhsywxZSShdnsnqTmqLN4hCzDzTBObesvnLBxae2HXm2/QHg0ViMDT9ZMY9VYGvJxnJCFZvLPOv4JJYSVT9PiBKUieCouZb/Pa2qriVGUsTYdFmRBr/6kj+eFdzkZ3B9/9Sa9I+nlIU7n8oU7MEq5v093/GEkHpQhn8WZeA22lLGJ/s7F3D/dk4wd5SvljnkD2J8VdaXyckGmiFdei3BLh3yqpU9znDvatIgB2owMItfIR7zmKsZi7lcom2ujl37NsbhZe3NoDAspmWcJEvEEvHoxxgzdzOKhqF1w/LltzKaprLb1UcFGlKFCM0m9zhGPEaNL3kTVRpIdlTyyuKhJDFWTsUbhQNpiCf+o8lzzwR8kIk/ABf4Pl+cK9FSZYeDy8h3liD7EDJNsg8Q2YG3RXg/YJc4mq6WJ/ypRXzdWg/pmZx1Ru3OCH6y30T395DEQGmazOVutdnSau8mubA6X28uBOMWjjD8PeQ7wmW0lKSLPTAo/srMCeo6sAHBXaeGvTQsnf9sFv8Witk/iW6/q252CO/33NZNvc1rlrveFISPrXJNwJaNzrTDlfOX9qP/mMi+wMu8HKpgVKCaMRjRyRskEnZCU8GXpNCMZEnrjNG2YrBVMRAvz8+GxrJjiJBHDOMNfC+RtRwG/cSIIA1uCwKHAzgQIHUtfI/goS47FSVxEMY3zHA9bgokS42xuB0U/BzleWtkoSvnC8GCe6F2RkCNcE7xakGXMYQBN7MOB6SInczpEspd+At/gCKhvIeWIxXSEmOVoJUz12s/XKjoArRqHAxAFz9SqecoI+3vVqvdyrVCB2a32/FssQ10YyuJpIZelVWGpChmf961e0LuJct1vVVId15JRRnzz6akM6OaPjzdCWtAApLqxeCppQdhEtuFox6T1t0eaZ5DWa0kaMEnr7Y402JI0/4O0XZA22CJpXQhCjbYjr+uBXsuVrdvnO7jGHOB9wQboVqVrRDEPgjgHVv6btt3T+bZ23HdDp5r3i/CsGQu8UGesBvQ5kJUuB75GfAXteuC3Sqe6fP/YpV+HTvumXl725ShFQ5ZX9w/v9dN3sEYADSQAHCTt7NMXwM2SlDdj71WS6qpBfST5r66JfSFkaWJcFb5bafqhKY3jb0dgrzdFwL4qOkxposY1KnBIM9irMvbF0IHtLUFjcwlefyGzL4AObHMJ/f1tLrxY/yNGeWSr/53FP/sH</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-16T00:54:34.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="vLUf9AoSKTU8NulhDw8O" version="13.9.9" type="github">
+  <diagram id="-ZGELuVf5rq7sDPk03Zz" name="Page-1">
+    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-5" value="" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=left;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.page;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="600" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-4" value="Search" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.search;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-2" value="Contact" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.contact;" vertex="1" parent="1">
+          <mxGeometry x="600" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-3" value="About us" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.about_us;" vertex="1" parent="1">
+          <mxGeometry x="480" y="150" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-7" value="GIF Search User Input" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.user;" vertex="1" parent="1">
+          <mxGeometry x="255" y="270" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-9" value="Site Logo" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.text;" vertex="1" parent="1">
+          <mxGeometry x="120" y="500" width="600" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-10" value="Search Results Button" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.download;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-11" value="&lt;span style=&quot;text-align: left&quot;&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;Brand: Giphy Search API Home Page&lt;/font&gt;&lt;/span&gt;" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.home;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_d6xAJ0CcjiX5zbBuQOA-4" target="_d6xAJ0CcjiX5zbBuQOA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-14" value="Gallery" style="html=1;strokeColor=none;fillColor=#0079D6;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;align=center;fontSize=12;outlineConnect=0;spacingTop=-6;fontColor=#FFFFFF;shape=mxgraph.sitemap.gallery;" vertex="1" parent="1">
+          <mxGeometry x="120" y="340" width="600" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="_d6xAJ0CcjiX5zbBuQOA-15" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 21px&quot;&gt;GIF Search:&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="240" width="130" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
