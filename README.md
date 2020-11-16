@@ -9,3 +9,7 @@ Details on how to use the website or what functionality is offered: Used to view
 Technologies Used: .html, .css, .javascript, .vscode
 
 Ideas for future improvement: Improve RESPONSIVENESS, add menu buttonn , add/store count of images displayed.
+
+User Stories:
+
+As a trend setter, I want to be able to search GIPHY API to check out all the trending GIFS for a particular topic.
