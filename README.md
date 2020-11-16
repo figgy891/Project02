@@ -8,4 +8,4 @@ Details on how to use the website or what functionality is offered: Used to view
 
 Technologies Used: .html, .css, .javascript, .vscode
 
-Ideas for future improvement: Improve RESPONSIVENESS, add menu buttonn , add store count of images diplayed.
+Ideas for future improvement: Improve RESPONSIVENESS, add menu buttonn , add/store count of images displayed.
